@@ -30,6 +30,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_modular: ^5.0.2
+  modular_bloc_bind: ^1.0.1
+  asuka: ^2.2.0
+  validatorless: ^1.2.3
+  fl_chart: ^0.63.0
+  firebase_core: ^2.16.0
+  firebase_auth: ^4.10.0
+  google_sign_in: ^6.1.5
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.5
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  path_provider: ^2.1.1
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -39,6 +54,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  isar_generator: ^3.1.0+1
+  build_runner: ^2.4.6
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
